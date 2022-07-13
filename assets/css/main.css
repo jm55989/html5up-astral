@@ -30,6 +30,10 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
+  background: linear-gradient(black, white);
+}
+
+body {
 	line-height: 1;
 }
 
